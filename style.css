@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 1920px;
+    height: 1080px;
+    /* display: flex; */
+    position: relative;
+    
+}
+
+.buton1{
+    padding: 0;
+    position: absolute;
+    left: 0;
+    top:0;
+
+}
+
+.buton2{
+    padding: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.buton3{
+
+}
+
+#img1{
+    width: 20px;
+    height: 20px;
+}
+#img2{
+    /* width: 200px; */
+    /* height: 200px; */
+}
+
+#img3{
+    width: 20px;
+    height: 20px;
+}
+#img4{
+    width: 20px;
+    height: 20px;
+}
+
